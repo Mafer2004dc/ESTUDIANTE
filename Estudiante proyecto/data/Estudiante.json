@@ -1,0 +1,30 @@
+[
+  {
+    "id": 2,
+    "nombre": "Fernanda",
+    "apellido": "Tomala",
+    "email": "fertomala@gmail.com",
+    "carnet": "unu1234",
+    "notas": {
+      "matematica": [
+        18.0
+      ],
+      "ingels": [
+        14.0
+      ]
+    },
+    "materias": [
+      "matematica",
+      "ingels"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "Santiago",
+    "apellido": "Tomala",
+    "email": "stomala@gmail.com",
+    "carnet": "une5678",
+    "notas": {},
+    "materias": []
+  }
+]
